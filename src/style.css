@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+section{
+    background-color: black;
+    /* border: 1px solid black; */
+    height: 100vh;
+    overflow-y: hidden;
+    
+}
+
+#dog{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+#person{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    
+}
